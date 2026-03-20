@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/wincase-logo.png" alt="WinCase CRM" width="200"/>
+  <img src=".github/wincase-logo.png" alt="WinCase CRM" width="200"/>
 </p>
 
 <h1 align="center">WinCase CRM v4.0</h1>
